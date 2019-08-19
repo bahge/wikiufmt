@@ -1,2 +1,2 @@
 # wikiufmt
-Repositório de estudo mediawiki, para a wikiufmt
+Repositório de estudo mediawiki, para a wikiUFMT.
